@@ -29,6 +29,10 @@ Defensive hardening only. No exploits, bypasses, malware, or unauthorized-access
 
 These files teach security ops process. They do not promise revenue.
 
+## Write-up
+
+- **Dev.to:** [3 Ops Tips for Running Solo AI Agents](https://dev.to/ray0840/3-ops-tips-for-running-solo-ai-agents-without-losing-the-plot-7hp)
+
 ## Same family (cross-links)
 
 - **Solo AI Agent Operator Kit** (free sample + Pages landing): https://github.com/ray0840/solo-ai-agent-operator-kit · https://ray0840.github.io/solo-ai-agent-operator-kit/
